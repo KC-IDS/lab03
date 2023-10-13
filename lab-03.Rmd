@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "User1, User2, User3 and Matthew Brown - Team Name"
+author: "Kenny Chen, Jake leung, Matthew Brown and User4 - Team Name"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -21,7 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+The bar for China is twice the width of the other bars and also China is in red which is a strange change in representation. Also bars don't look to scale.
 
 
 
@@ -33,7 +33,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+The image is in grayscale and the pie chart does not feature the exact proportion of each segment in the graph it also does not make clear show whether the length or the width of each segment is populatin density or total area.
 
 
 
@@ -44,7 +44,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+The size of the individual spots are not equal to each other but it is not clear what the size represents. There is also no numbers on the scales so its not informative there either. Also a key for the country codes would be useful.
 
 
 
@@ -55,9 +55,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
-
-
+The graph here seems to be informative of where the distribution of the yearly income per Person for each of these regions. The comparison with India and China seems to be quite strange with the labeling but generally seems informative.
 
 
 
