@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Kenny Chen, Jake leung, Aleksandra Iwaszkiewicz, Sarah De Giuli - Team Name"
+author: "Kenny Chen, Jake leung, Matthew Brown, Aleksandra Iwaszkiewicz, Sarah De Giuli - the RegRession Rebels"
 date: "`r Sys.Date()`"
 output: html_document
 ---
