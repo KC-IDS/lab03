@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Kenny Chen, Jake leung, User3 and User4 - Team Name"
+author: "Kenny Chen, Jake leung, User3, Aleksandra Iwaszkiewicz - Team Name"
 date: "`r Sys.Date()`"
 output: html_document
 ---
