@@ -1,6 +1,10 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Kenny Chen, Jake leung, User3, Aleksandra Iwaszkiewicz - Team Name"
+<<<<<<< HEAD
+author: "Kenny Chen, Jake leung, User3, User4 - Team Name"
+=======
+author: "Kenny Chen, Jake leung, Matthew Brown and User4 - Team Name"
+>>>>>>> 4d58341f82094568da2600f589d9274f20e1b912
 date: "`r Sys.Date()`"
 output: html_document
 ---
